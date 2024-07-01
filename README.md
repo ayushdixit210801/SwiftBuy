@@ -59,8 +59,8 @@
 **1. Clone this repo by running the following command :-**
 
 ```bash
- git clone https://github.com/SajidAnTechie/ShopPoint
- cd ShopPoint
+ git clone https://github.com/ayushdixit210801/SwiftBuy.git
+ cd SwiftBuy
 ```
 
 **2. Now install all the required packages(frontend & backend) by running the following commands :-**

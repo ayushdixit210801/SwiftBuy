@@ -50,7 +50,6 @@
 ## API :man_technologist:
 
 - [PayPal API](https://developer.paypal.com/)
-- [Esewa API](https://developer.esewa.com.np)
 - [Send Grid API](https://sendgrid.com/)
 - [Cloudinary API](https://cloudinary.com/)
 
